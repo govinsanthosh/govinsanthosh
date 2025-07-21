@@ -1,5 +1,5 @@
 # Santhosh G
-<img width="1000" height="212" alt="Gitup Cover" src="https://github.com/user-attachments/assets/b516ab60-feeb-47d2-a94c-f7de0e4be319" />
+<img width="1000" height="200" alt="Gitup Cover" src="https://github.com/user-attachments/assets/6d8df755-f2b1-4652-8e05-4272374cd739" />
 
 <p align="center">
   <!-- LinkedIn Badge -->
